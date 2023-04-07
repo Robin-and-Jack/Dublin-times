@@ -1,2 +1,3 @@
-Theme: time machine 
-header_style: Mona Sans
+remote_theme: pages-themes/time-machine@v0.2.0
+title: Dublin Times
+description: Dublin Times comes to give you the latest news and info about events.
